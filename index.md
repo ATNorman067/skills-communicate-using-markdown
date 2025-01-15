@@ -21,3 +21,7 @@ Heading 2
 ---
 ### Commit message:
 Added headings \<h1\> through \<h6\> with explanation to demonstrate basic understanding of headings in markdown.
+  
+---
+### Add an image:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
